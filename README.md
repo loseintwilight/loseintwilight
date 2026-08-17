@@ -77,30 +77,6 @@ I keep exploring Agent DAG scheduling, vertical-domain knowledge base optimizati
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<!-- Contribution graph, near real-time -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Loseintwilight&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true&custom_title=Loseintwilight%20Contribution%20Graph" alt="Contribution Graph" width="95%" />
-
-<br/>
-
-<!-- GitHub stats cards (third-party, may have up to 24h cache) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Loseintwilight&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loseintwilight&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&hide=html,css" />
-
-<br/>
-
-<!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Loseintwilight&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6C37&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=C9D1D9" alt="GitHub Streak" />
-
-</div>
-
-> Note: Stats cards are served by third-party services (vercel.app / herokuapp.com) and may cache for up to 24 hours. Slight delay is normal.
-
----
-
 ### GitHub Trophies
 
 <div align="center">
@@ -120,27 +96,6 @@ I keep exploring Agent DAG scheduling, vertical-domain knowledge base optimizati
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Loseintwilight/Loseintwilight/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Loseintwilight/Loseintwilight/output/github-contribution-grid-snake.svg" width="95%" />
 </picture>
-
-</div>
-
----
-
-### Featured Projects
-
-<div align="center">
-
-| Project | Tech Stack | Description |
-|:--|:--|:--|
-| **AI Anti-Fraud Master** | Spring Boot, FastAPI, LangChain, Vue 3, MySQL, Redis, ChromaDB, SSE | Multimodal intelligent anti-fraud assistant system covering detection, scoring, reporting, persuasion, and guardian alerts in a complete loop |
-| **AgentHub** | FastAPI, LangGraph, Next.js, PostgreSQL, WebSocket, TypeScript | Multi-agent collaboration development platform with 6-type Agent DAG scheduling, compatible with 11 mainstream LLMs |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[**Browse all my repositories ->**](https://github.com/Loseintwilight?tab=repositories)
 
 </div>
 
@@ -178,4 +133,5 @@ I keep exploring Agent DAG scheduling, vertical-domain knowledge base optimizati
   Notes:
   1. The GitHub repository name MUST be exactly "Loseintwilight" (same as your username) for this README to appear on your profile page.
   2. The Contribution Snake requires the .github/workflows/snake-animation.yml workflow to run successfully at least once.
+  3. GitHub profile page already shows Popular Repositories, contribution graph and activity timeline, so the README focuses on the parts GitHub does not show: tech stack, trophies, snake animation, contact info.
 -->
