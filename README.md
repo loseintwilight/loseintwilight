@@ -18,7 +18,7 @@ I am an undergraduate student majoring in Software Engineering, passionate about
 
 I am proficient in building dual-engine backend services with Java Spring Boot and Python FastAPI, and leveraging LangChain and LangGraph to construct agent workflows. My strengths span vector knowledge base construction, multi-path retrieval optimization, multi-model gateway adaptation, and real-time streaming interaction development. I enjoy decomposing complex business requirements into clear, scalable, and iterative system architectures, and I am used to data-driven optimization to continuously tackle engineering challenges such as LLM hallucination, response latency, agent scheduling, and tool safety control. I have hands-on experience in independent full-stack project development, with familiarity in Docker containerized deployment, Linux operations, and front-end / back-end collaboration.
 
-I keep exploring Agent DAG scheduling, vertical-domain knowledge base optimization, and multimodal AI recognition, and look forward to creating intelligent systems that solve real-world pain points.
+I keep exploring Agent DAG scheduling, vertical-domain knowledge base optimization and multimodal AI recognition. Beyond engineering practice, I maintain an active technical blog on CSDN, where I have published over 10 original articles covering AI technologies, accumulating more than 5,000 total views. I aim to build intelligent systems that resolve practical real-world pain points.
 
 - Major: Software Engineering (2024.09 - 2028.06)
 - Focus Areas: LLM Application Engineering, Multi-Agent Systems, RAG, Backend & Full-Stack Development
@@ -77,30 +77,6 @@ I keep exploring Agent DAG scheduling, vertical-domain knowledge base optimizati
 
 ---
 
-### GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Loseintwilight&theme=discord&no-frame=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Loseintwilight/Loseintwilight/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Loseintwilight/Loseintwilight/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Loseintwilight/Loseintwilight/output/github-contribution-grid-snake.svg" width="95%" />
-</picture>
-
-</div>
-
----
-
 ### Contact Me
 
 <div align="center">
@@ -132,6 +108,5 @@ I keep exploring Agent DAG scheduling, vertical-domain knowledge base optimizati
 <!--
   Notes:
   1. The GitHub repository name MUST be exactly "Loseintwilight" (same as your username) for this README to appear on your profile page.
-  2. The Contribution Snake requires the .github/workflows/snake-animation.yml workflow to run successfully at least once.
-  3. GitHub profile page already shows Popular Repositories, contribution graph and activity timeline, so the README focuses on the parts GitHub does not show: tech stack, trophies, snake animation, contact info.
+  2. GitHub profile page already shows Popular Repositories, contribution graph and activity timeline, so the README focuses on the parts GitHub does not show: tech stack, contact info and profile views.
 -->
