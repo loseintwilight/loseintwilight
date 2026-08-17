@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Loseintwilight;AI+Application+Engineer;Multi-Agent+%26+RAG+System+Builder;Full-Stack+Developer;Java+%2B+Python+%2B+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Loseintwilight;AI+Application+Engineer;Multi-Agent+%26+RAG+System+Builder;Full-Stack+Developer;Java+%2B+Python+%2B+TypeScript" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,10 +14,14 @@
 
 ### About Me
 
-I am a software engineering student at Qilu University of Technology, passionate about building AI-powered applications that solve real-world problems. Currently focused on multi-agent systems, RAG architectures, and full-stack development. I enjoy turning complex ideas into clean, scalable, and maintainable systems.
+I am an undergraduate student majoring in Software Engineering, passionate about building AI applications that deliver real business value. My current focus areas include **multi-agent collaboration platforms, RAG retrieval-augmented generation, LLM engineering in production**, and full-stack system development.
+
+I am proficient in building dual-engine backend services with Java Spring Boot and Python FastAPI, and leveraging LangChain and LangGraph to construct agent workflows. My strengths span vector knowledge base construction, multi-path retrieval optimization, multi-model gateway adaptation, and real-time streaming interaction development. I enjoy decomposing complex business requirements into clear, scalable, and iterative system architectures, and I am used to data-driven optimization to continuously tackle engineering challenges such as LLM hallucination, response latency, agent scheduling, and tool safety control. I have hands-on experience in independent full-stack project development, with familiarity in Docker containerized deployment, Linux operations, and front-end / back-end collaboration.
+
+I keep exploring Agent DAG scheduling, vertical-domain knowledge base optimization, and multimodal AI recognition, and look forward to creating intelligent systems that solve real-world pain points.
 
 - Major: Software Engineering (2024.09 - 2028.06)
-- Focus Areas: LLM Applications, Multi-Agent Systems, RAG, Backend Architecture
+- Focus Areas: LLM Application Engineering, Multi-Agent Systems, RAG, Backend & Full-Stack Development
 - Languages: Chinese (Native), English (CET-4)
 
 ---
@@ -25,22 +29,22 @@ I am a software engineering student at Qilu University of Technology, passionate
 ### Tech Stack
 
 <details open>
-<summary><b>AI & Large Language Models</b></summary>
+<summary><b>LLM AI Engineering & Agent Development</b></summary>
 <br>
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D8EFF?style=for-the-badge&logo=deepseek&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-5A2BE2?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA%2FQLoRA-FF6B6B?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chroma&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-5A2BE2?style=for-the-badge)
 
 </details>
 
 <details open>
-<summary><b>Backend & Database</b></summary>
+<summary><b>Backend Services & Data Storage</b></summary>
 <br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -56,30 +60,18 @@ I am a software engineering student at Qilu University of Technology, passionate
 </details>
 
 <details open>
-<summary><b>Frontend</b></summary>
+<summary><b>Engineering & Full-Stack</b></summary>
 <br>
 
 ![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
-![Konva](https://img.shields.io/badge/Konva-0E7FFF?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>DevOps & Tools</b></summary>
-<br>
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-2D618A?style=for-the-badge)
 
 </details>
 
@@ -89,22 +81,23 @@ I am a software engineering student at Qilu University of Technology, passionate
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Loseintwilight&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loseintwilight&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" />
-</a>
+<!-- Contribution graph, near real-time -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Loseintwilight&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true&custom_title=Loseintwilight%20Contribution%20Graph" alt="Contribution Graph" width="95%" />
 
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Loseintwilight&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6C37&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=C9D1D9" alt="GitHub Streak" />
-</a>
+<br/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Loseintwilight&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%" />
-</a>
+<!-- GitHub stats cards (third-party, may have up to 24h cache) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Loseintwilight&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loseintwilight&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&hide=html,css" />
+
+<br/>
+
+<!-- Streak stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Loseintwilight&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6C37&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=C9D1D9" alt="GitHub Streak" />
 
 </div>
+
+> Note: Stats cards are served by third-party services (vercel.app / herokuapp.com) and may cache for up to 24 hours. Slight delay is normal.
 
 ---
 
@@ -132,13 +125,22 @@ I am a software engineering student at Qilu University of Technology, passionate
 
 ---
 
-### Featured Repositories
+### Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Loseintwilight?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loseintwilight&repo=Loseintwilight&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
-</a>
+| Project | Tech Stack | Description |
+|:--|:--|:--|
+| **AI Anti-Fraud Master** | Spring Boot, FastAPI, LangChain, Vue 3, MySQL, Redis, ChromaDB, SSE | Multimodal intelligent anti-fraud assistant system covering detection, scoring, reporting, persuasion, and guardian alerts in a complete loop |
+| **AgentHub** | FastAPI, LangGraph, Next.js, PostgreSQL, WebSocket, TypeScript | Multi-agent collaboration development platform with 6-type Agent DAG scheduling, compatible with 11 mainstream LLMs |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[**Browse all my repositories ->**](https://github.com/Loseintwilight?tab=repositories)
 
 </div>
 
@@ -175,6 +177,5 @@ I am a software engineering student at Qilu University of Technology, passionate
 <!--
   Notes:
   1. The GitHub repository name MUST be exactly "Loseintwilight" (same as your username) for this README to appear on your profile page.
-  2. The Snake animation requires the GitHub Actions workflow in .github/workflows/snake-animation.yml to run successfully first.
-  3. The repo pin will show whichever repository you have named "Loseintwilight".
+  2. The Contribution Snake requires the .github/workflows/snake-animation.yml workflow to run successfully at least once.
 -->
