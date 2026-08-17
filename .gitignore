@@ -1,0 +1,27 @@
+# IDE / Editor
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Build outputs
+target/
+build/
+out/
+dist/
+node_modules/
+
+# Env
+.env
+.env.local
+*.local
