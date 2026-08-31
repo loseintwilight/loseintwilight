@@ -22,7 +22,7 @@ I keep exploring Agent DAG scheduling, vertical-domain knowledge base optimizati
 
 - Major: Software Engineering (2024.09 - 2028.06)
 - Focus Areas: LLM Application Engineering, Multi-Agent Systems, RAG, Backend & Full-Stack Development
-- Languages: Chinese (Native), English (CET-4)
+- Languages: Chinese (Native)
 
 ---
 
