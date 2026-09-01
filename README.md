@@ -101,6 +101,18 @@ I keep exploring Agent DAG scheduling, vertical-domain knowledge base optimizati
 
 <div align="center">
 
+Feel free to connect, star, and open issues. Thanks for visiting!
+
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/Loseintwilight/Loseintwilight@main/assets/%E8%87%B4%E8%B0%A2.gif" alt="Thanks" width="80%" />
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,27&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
