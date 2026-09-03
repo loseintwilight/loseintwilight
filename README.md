@@ -14,14 +14,15 @@
 
 ### About Me
 
-I am an undergraduate student majoring in Software Engineering, passionate about building AI applications that deliver real business value. My current focus areas include **multi-agent collaboration platforms, RAG retrieval-augmented generation, LLM engineering in production**, and full-stack system development.
+I’m a Software Engineering undergrad passionate about building practical AI applications. My core interests cover production‑grade LLM engineering, RAG, multi‑agent automation, LLM tool‑calling systems, lightweight multimodal integration and full‑stack development.
 
-I am proficient in building dual-engine backend services with Java Spring Boot and Python FastAPI, and leveraging LangChain and LangGraph to construct agent workflows. My strengths span vector knowledge base construction, multi-path retrieval optimization, multi-model gateway adaptation, and real-time streaming interaction development. I enjoy decomposing complex business requirements into clear, scalable, and iterative system architectures, and I am used to data-driven optimization to continuously tackle engineering challenges such as LLM hallucination, response latency, agent scheduling, and tool safety control. I have hands-on experience in independent full-stack project development, with familiarity in Docker containerized deployment, Linux operations, and front-end / back-end collaboration.
+I develop backend services to construct agent execution logic, tool‑calling harnesses, hybrid retrieval pipelines and multi‑step automation workflows. I work on vector knowledge bases, hybrid retrieval optimization, multi‑model gateways and real‑time streaming. I translate complex business requirements into scalable architectures and resolve typical engineering pain points: poor retrieval quality, LLM hallucinations, latency, tool‑calling reliability and safety issues.
 
-I keep exploring Agent DAG scheduling, vertical-domain knowledge base optimization and multimodal AI recognition. Beyond engineering practice, I maintain an active technical blog on CSDN, where I have published over 10 original articles covering AI technologies, accumulating more than 7,000 total views. I aim to build intelligent systems that resolve practical real-world pain points.
+I build end‑to‑end full‑stack projects, familiar with Docker deployment, Linux operations and frontend‑backend collaboration.
 
-- Major: Software Engineering (2024.09 - 2028.06)
-- Focus Areas: LLM Application Engineering, Multi-Agent Systems, RAG, Backend & Full-Stack Development
+I’m currently exploring domain‑specific RAG optimization, multi‑agent DAG scheduling and automation capabilities. I maintain a technical blog on CSDN (10+ posts, 8k+ total views). My goal is to build intelligent systems that solve real‑world problems.
+
+- Bachelor of Software Engineering (Sep. 2024 – Present, Expected Jun. 2028)
 - Languages: Chinese (Native)
 
 ---
